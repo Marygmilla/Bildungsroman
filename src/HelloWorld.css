@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
+@import url( 'https://fonts.googleapis.com/css?family=Bungee+Inline');
+
+.HelloWorld {
+  text-align: center;
+  background: hsl(0, 100%, 90%);
+  width: 100%;
+  color: #333;
+  padding: 20px;
+  margin: 0px;
+  height: 75px;
+}
+
+h1{
+	text-align: left;
+	margin-top: 50px;
+	font-size: 75px;
+	font-family: 'Bungee Shade';
+}
+
+.About {
+	float: right;
+	text-align: right;
+	margin: 50px;
+	margin-right: 150px;
+	margin-left: 50%;
+	font-size: 20px;
+	font-family: 'Bungee Inline';
+}
+
+.Logo {
+	margin-left: 100px;
+	margin-right: 50%;
+	background-image: url("./lips.png");
+}
